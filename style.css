@@ -158,3 +158,81 @@ nav {
     text-align: justify;
 }
   
+.projeto1 {
+    width: 20vh;
+    height: auto;
+    position: absolute;
+    top: 300px;
+    left: 400px;
+
+}
+
+.projeto2 {
+    width: 30vh;
+    height: auto;
+    position: absolute;
+    top: 650px;
+    left: 300px;
+
+}
+
+.tituloprojetos {
+    font-family: poppins;
+    position: absolute;
+    left: 45vw;
+    top: 150px;
+    font-size: 3vw;
+    color: #808080;
+}
+
+.tituloprojeto1 {
+    font-family: poppins;
+    position: absolute;
+    left: 620px;
+    top: 300px;
+    font-size: 1.3vw;
+    color: #808080;
+    text-decoration: underline;
+}
+
+.tituloprojeto2 {
+    font-family: poppins;
+    position: absolute;
+    left: 620px;
+    top: 600px;
+    font-size: 1.3vw;
+    color: #808080;
+    text-decoration: underline;
+}
+
+.textoprojeto1 {
+    font-family: poppins;
+    position: absolute;
+    left: 620px;
+    top: 350px;
+    font-size: 1vw;
+    color: #808080;
+    width: 600px;
+    text-align: justify;
+}
+
+.textoprojeto2 {
+    font-family: poppins;
+    position: absolute;
+    left: 620px;
+    top: 650px;
+    font-size: 1vw;
+    color: #808080;
+    width: 600px;
+    text-align: justify;
+}
+
+.contatos {
+    font-family: poppins;
+    position: absolute;
+    left: 43vw;
+    top: 800px;
+    font-size: 1vw;
+    color: #808080;
+    text-align: center;
+}
